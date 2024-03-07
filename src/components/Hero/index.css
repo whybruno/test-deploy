@@ -1,0 +1,12 @@
+.rounded-full {
+    border-radius: 50% !important;
+    background-color: #e61b29 !important;
+    border-color: #e61b29 !important;
+    height: 70% !important;
+    font-family: "IBM Plex Mono", monospace;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 20px;
+    padding: 2.5rem;
+}
+
